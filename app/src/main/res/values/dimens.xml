@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_lbl_birth_date">10dp</dimen>
+    <dimen name="margin_left_right">20dp</dimen>
+    <dimen name="date_picker_width">330dp</dimen>
+    <dimen name="date_picker_height">200dp</dimen>
+    <dimen name="button_edit_width">200dp</dimen>
+    <dimen name="title_confirm_data">20sp</dimen>
+
+    <dimen name="padding_confirm_activity">15dp</dimen>
+    <dimen name="margin_top_confirm_activity">40dp</dimen>
+    <dimen name="margin_top_confirm_activity_between_views">10dp</dimen>
+</resources>
